@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: serverLambdaDemo
+datasources:
+  default:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    db-type: mysql
